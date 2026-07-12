@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 driver_id,name,city,rating,rating_bonus
 1,John Smith,Charlotte,4.8,480.0
 2,Emma Davis,Atlanta,4.2,420.0
@@ -9,3 +10,16 @@ driver_id,name,city,rating,rating_bonus
 8,Jessica Thomas,Unknown,4.5,450.0
 9,William Jackson,Atlanta,4.85,484.99999999999994
 10,Jennifer White,Dallas,4.3,430.0
+=======
+driver_id,name,city,rating,rating_bonus
+1,John Smith,Charlotte,4.8,480.0
+2,Emma Davis,Atlanta,4.2,420.0
+3,Michael Brown,Dallas,4.6,459.99999999999994
+4,Sarah Wilson,Charlotte,4.9,490.00000000000006
+5,James Taylor,Atlanta,3.9,390.0
+6,Linda Moore,Dallas,4.7,470.0
+7,Robert Anderson,Charlotte,4.1,409.99999999999994
+8,Jessica Thomas,Unknown,4.5,450.0
+9,William Jackson,Atlanta,4.85,484.99999999999994
+10,Jennifer White,Dallas,4.3,430.0
+>>>>>>> 8597eff824ead6ae75733b6695e3f9fbd26390fc
